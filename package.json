@@ -18,6 +18,7 @@
   "homepage": "https://github.com/fallen158/music-163-demo#readme",
   "dependencies": {
     "leancloud-storage": "^3.10.0",
+    "qiniu": "^7.2.1",
     "qiniu-js": "^2.4.0"
   }
 }
